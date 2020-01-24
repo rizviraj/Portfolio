@@ -21,6 +21,9 @@
 ### Hungry4 Shop 
 #### https://itunes.apple.com/us/app/hungry4-shop-app/id694542843?mt=8
 
+###  Lyca Radio
+#### https://itunes.apple.com/us/app/lyca-radio/id1196632907?ls=1&mt=8
+
 ### Coffee4 Shop 
 #### https://itunes.apple.com/us/app/txt4coffee-shop-application/id384017835?mt=8
 
@@ -36,16 +39,13 @@
 ### Time 107.5 Radio
 #### https://itunes.apple.com/us/app/time-107-5/id924811226?ls=1&mt=8
 
-###  Lyca Radio
-#### https://itunes.apple.com/us/app/lyca-radio/id1196632907?ls=1&mt=8
-
-### Athavan Radio
+### Athavan
 #### https://itunes.apple.com/us/app/athavan-radio/id1210642425?ls=1&mt=8
 
 ### Lyca TV (Ipad App)
 #### https://itunes.apple.com/us/app/lyca-tv/id1043025338?ls=1&mt=8
 
-### Lyca Radio 1458
+### Lyca 1458
 ####  https://itunes.apple.com/us/app/lyca-radio-1458/id930033721?ls=1&mt=8
 
 ### Easy Lifestyle
