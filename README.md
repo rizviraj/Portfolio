@@ -1,5 +1,11 @@
 ## Portfolio
 
+### SoldiPOS - Rich Point of Sale system
+#### https://apps.apple.com/us/app/soldipos/id1180887741
+
+### PETStock
+#### https://apps.apple.com/us/app/petstock-nz/id1501800247
+
 ### Nayifat - Nayifat Finance Company
 #### https://apps.apple.com/us/app/nayifat/id1561147969
 
